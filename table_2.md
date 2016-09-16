@@ -1,1 +1,3 @@
-Puzzle solver, or game AI like tictactoe AI or connect 4
+##LMS Grabber##
+
+Automatically downloads course files from a users LMS account
