@@ -11,3 +11,7 @@ iOS Framework for location based payments and user information
 
 ## Hassan Idea
 My project idea is to create Chrome plug-in to browse the internet using the keyboard
+
+
+## Mark's Idea
+Possibly extend or do bugfixing for LLVM compiler framework.
