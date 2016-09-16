@@ -1,0 +1,1 @@
+Puzzle solver, or game AI like tictactoe AI or connect 4
