@@ -1,0 +1,1 @@
+* Android app that allows for hands free, voice control of Spotify using the Spotify API and Google Speech Recognition.
