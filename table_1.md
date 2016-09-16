@@ -7,3 +7,7 @@ My project idea is a text editor that will be extensible and all plugins will be
 iOS App for Regex Crossword Puzzles
 				or
 iOS Framework for location based payments and user information
+
+
+## Hassan Idea
+My project idea is to create Chrome plug-in to browse the internet using the keyboard
