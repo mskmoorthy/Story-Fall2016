@@ -1,3 +1,6 @@
-##LMS Grabber##
 
-Automatically downloads course files from a users LMS account
+Make an AI that solves basic puzzles, like 
+
+
+puzzle15 or a connect four AI.
+
