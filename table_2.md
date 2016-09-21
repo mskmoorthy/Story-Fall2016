@@ -1,0 +1,1 @@
+## Shane Demskie Ideas My project idea is an application which will track the movies I have, fetch their cover art/information (probably by scraping imdb) and will also track movies I want to download/watch. 
